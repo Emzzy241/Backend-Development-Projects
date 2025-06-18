@@ -1,5 +1,5 @@
 ## Backend Project Evolution 🚀
-#### Welcome to my journey of backend development, where I take simple applications and evolve them into robust systems with PostgreSQL, Prisma, and Node.js..
+#### Welcome to my journey of full-stack and backend development, where I take simple applications and evolve them into robust systems with PostgreSQL, Prisma, and Node.js..
 
 ## 📌 Project Overview
 This repository showcases multiple backend projects, transforming a basic To-Do App into more advanced applications with scalable architecture.
