@@ -3,4 +3,7 @@ node_modules
 .env
 
 
-../src/generated/prisma
+/generated/prisma
+# Ignore the Prisma client generated files
+# This is where Prisma generates its client code
+# when you run `prisma generate`
