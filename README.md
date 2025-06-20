@@ -19,13 +19,14 @@ This repository showcases multiple backend projects, transforming a basic To-Do 
 * Scalable and modular code structure
 
 ## 📂 Directory Structure
+```sh
 backend-projects/
-│── chapter_1/  # Basic CRUD operations
-│── chapter_2/  # PostgreSQL & Prisma integration
-│── chapter_3/  # JWT authentication & secure keys
-│── chapter_4/  # Advanced functionalities
+│── chapter_1/  # Theory
+│── chapter_2/  # Basic Backend Project
+│── chapter_3/  # NodeJS SQLite
+│── chapter_4/  # Advanced functionalities (PostgreSQL & Prisma integration, JWT authentication & secure keys)
 │── .env.example  # Example environment variables
-
+```
 ## 🚀 Setup & Installation
 ```sh
     git clone <repo-url>
